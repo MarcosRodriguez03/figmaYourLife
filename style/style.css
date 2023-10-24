@@ -24,7 +24,14 @@
 .page2LevelDown{
     margin-top:96px;
 }
-
+.page2Img{
+width:567px;
+margin-left:100px;
+}
+p{
+    font-size: 24px;
+    color: white;
+}
 .erenImg {
     width:410px;
 }
@@ -35,7 +42,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(25, 25, 25);
 }
 
 h1,

@@ -1,0 +1,66 @@
+.spreadNav {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 33px;
+    color: white;
+}
+
+.navColor {
+    background-color: rgb(170, 0, 0);
+    margin-top: -1%;
+    margin-bottom: -1%;
+}
+
+.aotLogo {
+    margin-top:8px;
+    margin-bottom: 8px;
+    margin-left: 50px;
+    width: 250px;
+}
+
+.levelDown {
+    margin-top: 218px;
+}
+.page2LevelDown{
+    margin-top:96px;
+}
+
+.erenImg {
+    width:410px;
+}
+
+.imgSize {
+    width: 90%;
+    
+}
+
+body {
+    background-color: black;
+}
+
+h1,
+h2 {
+    color: white;
+}
+
+.highlight {
+    background-color: rgba(0, 0, 0, .5);
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 70%;
+    font-size:40px;
+}
+
+
+.highlight2 {
+    background-color: rgba(0, 0, 0, .5);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    font-size:30px;
+}
+
+.backgroundNav {
+    background-color: red;
+    margin-top: -1;
+}

@@ -12,7 +12,7 @@
 }
 
 .aotLogo {
-    margin-top:8px;
+    margin-top: 8px;
     margin-bottom: 8px;
     margin-left: 50px;
     width: 250px;
@@ -21,38 +21,45 @@
 .levelDown {
     margin-top: 218px;
 }
-.page2LevelDown{
-    margin-top:96px;
+
+.page2LevelDown {
+    margin-top: 96px;
 }
-.page2Img{
-width:567px;
-margin-left:100px;
+
+.page2Img {
+    width: 567px;
+    margin-left: 100px;
 }
-p{
+
+p {
     font-size: 24px;
     color: white;
 }
-.page1Font{
-    font-size:30px;
+
+.page1Font {
+    font-size: 30px;
     color: white;
 }
-.moveLeft{
+
+.moveLeft {
     padding-left: 85px;
 }
+
 .erenImg {
-    width:410px;
+    width: 410px;
 }
 
 .imgSize {
     width: 90%;
-    
+
 }
 
 body {
     background-color: rgb(25, 25, 25);
 }
 
-h1,h2 {
+h1,
+h2 {
     color: white;
 }
 
@@ -61,7 +68,7 @@ h1,h2 {
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 70%;
-    font-size:64px;
+    font-size: 64px;
     font-weight: 300;
 }
 
@@ -71,7 +78,7 @@ h1,h2 {
     /* margin-left: 20%;
     margin-right: 20%; */
     margin-bottom: 5%;
-    font-size:48px;
+    font-size: 48px;
     font-weight: 300;
 }
 
